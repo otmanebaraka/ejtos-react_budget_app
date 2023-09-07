@@ -11,3 +11,19 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.custom-btn {
+    color: white;
+    border: none;
+    font-size: 2.3em;
+    border-radius: 20px;
+    line-height: .9;
+    box-sizing: border-box;
+    width: 36px;
+    height: 36px;
+}
+.add-btn{
+    background: green;
+}
+.minus-btn{
+    background: red;
+}
